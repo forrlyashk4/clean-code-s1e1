@@ -150,12 +150,12 @@
 
 /* Edit Task */
 .main__list .main__list_item .main__input[type=text] {
-  display: none
+  display: none;
 }
 
 .main__list .main__list_item.task__item_edit .main__input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .main__list .main__list_item.task__item_edit .main__input {
